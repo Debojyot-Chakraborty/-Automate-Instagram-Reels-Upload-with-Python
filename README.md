@@ -29,11 +29,7 @@ pip install instagrapi
 ## How to Use 📋
 
 1. **Clone the Repository**:  
-   Clone or download this repository to your local machine.
-   
-   ```bash
-   git clone https://github.com/your-username/instagram-reels-auto-uploader.git
-   ```
+
 
 2. **Set up Your Accounts**:  
    Edit the `accounts` list in the `bot.py` file with your Instagram account credentials (username and password).
